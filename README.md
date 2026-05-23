@@ -113,6 +113,6 @@ Through this project, I improved my skills in:
 Nasirah Mohamud
 
 ## Connect With Me
-LinkedIn: (Add your LinkedIn link here)
-GitHub: (Add your GitHub profile link here)
+LinkedIn: (www.linkedin.com/in/nasirah-mohamud-2298543a9)
+GitHub: (https://github.com/nasirahmohamud-ai)
 
