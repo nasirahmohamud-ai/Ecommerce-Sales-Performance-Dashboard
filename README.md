@@ -88,9 +88,8 @@ The dataset includes:
 ---
 
 ## Dashboard Preview
-(Add your dashboard screenshot here)
+<img width="1134" height="742" alt="E-Commerce Sales Dashboard" src="https://github.com/user-attachments/assets/069de707-a6fa-47a7-b2b9-1994f202a5fc" />
 
----"C:\Users\nasir\OneDrive\Pictures\Screenshots\E-Commerce Sales Dashboard.png"
 
 ## Key Insights
 - Certain products contributed significantly more revenue than others.
